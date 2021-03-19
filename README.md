@@ -49,9 +49,13 @@
 Netflix's interface's clone!
 
 ## :sparkles: Features ##
-
+Base project:
 :heavy_check_mark: Responsive;\
 :heavy_check_mark: HTML, CSS and JS only;\
+
+My personal contributions:
+:heavy_check_mark: Favicon;
+:heavy_check_mark: English translation;
 :heavy_check_mark: Hosted on Netlify (first time!);
 
 ## :rocket: Technologies ##
