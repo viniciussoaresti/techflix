@@ -6,7 +6,7 @@
   <!-- <a href="https://netflox.netlify.app">Demo</a> -->
 </div>
 
-<h1 align="center">Netflox</h1>
+<h1 align="center">CrunchFlix</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/viniciussoaresti/netflox?color=56BEB8">
@@ -24,13 +24,11 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/netflox?color=56BEB8" /> -->
 </p>
 
-<!-- Status -->
-
-<!-- <h4 align="center"> 
-	🚧  Netflox 🚀 Under construction...  🚧
+<h4 align="center"> 
+	🚧 Under construction...  🚧
 </h4> 
 
-<hr> -->
+<hr>
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -46,7 +44,7 @@
 
 ## :dart: About ##
 
-Netflix's interface's clone!
+Netflix's interface's clone for anime!
 
 ## :sparkles: Features ##
 Base project:
@@ -58,6 +56,7 @@ My personal contributions:
 
 :heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
+:heavy_check_mark: Video preview on hover (if available);\
 :heavy_check_mark: Hosted on Netlify (first time!);
 
 ## :rocket: Technologies ##
