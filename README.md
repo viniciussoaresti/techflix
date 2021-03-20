@@ -69,6 +69,7 @@ The following tools were used in this project:
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
 - [FontAwesome](https://fontawesome.com/)
 - [Favicon.IO](https://favicon.io/)
+- [Owl Carousel 2](https://owlcarousel2.github.io/OwlCarousel2/)
 - [Netlify](https://www.netlify.com/)
 
 ## :memo: License ##
