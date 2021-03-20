@@ -1,27 +1,28 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Netflox gif exhibiting functionalities" />
-
+  <img src="./.github/app.gif" alt="CrunchFlix's gif exhibiting functionalities" />
   &#xa0;
 
-  <!-- <a href="https://netflox.netlify.app">Demo</a> -->
+  <a href="https://crunchflix.netlify.app">Demo</a> 
 </div>
 
 <h1 align="center">CrunchFlix</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/viniciussoaresti/netflox?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/viniciussoaresti/crunchflix?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/viniciussoaresti/netflox?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/viniciussoaresti/crunchflix?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciussoaresti/netflox?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciussoaresti/crunchflix?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/viniciussoaresti/netflox?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/viniciussoaresti/crunchflix?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/netflox?color=56BEB8" /> -->
+  <img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/8b29fb2b-3acd-4a3a-adad-950378eab980/deploy-status">
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/netflox?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/crunchflix?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/netflox?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/crunchflix?color=56BEB8" /> -->
+
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/crunchflix?color=56BEB8" /> -->
 </p>
 
 <h4 align="center"> 
@@ -34,8 +35,6 @@
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/viniciussoaresti" target="_blank">Author</a>
 </p>
@@ -67,16 +66,6 @@ The following tools were used in this project:
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
 - [Netlify](https://www.netlify.com/)
-
-## :white_check_mark: Requirements ##
-
-Before starting you don't need to have anything installed.
-
-## :checkered_flag: Starting ##
-
-```bash
-Hosted on netlify!
-```
 
 ## :memo: License ##
 
