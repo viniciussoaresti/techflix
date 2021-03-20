@@ -55,6 +55,8 @@ My personal contributions:
 
 :heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
+:heavy_check_mark: Language Switcher;\
+:heavy_check_mark: Read More (when something has a lot of text);\
 :heavy_check_mark: Video preview on hover (if available);\
 :heavy_check_mark: Hosted on Netlify (first time!);
 
@@ -65,6 +67,8 @@ The following tools were used in this project:
 - [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 - [JS](https://developer.mozilla.org/pt-BR/docs/Web/Javascript)
+- [FontAwesome](https://fontawesome.com/)
+- [Favicon.IO](https://favicon.io/)
 - [Netlify](https://www.netlify.com/)
 
 ## :memo: License ##
