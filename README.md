@@ -18,11 +18,11 @@
 
   <img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/8b29fb2b-3acd-4a3a-adad-950378eab980/deploy-status">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/crunchflix?color=56BEB8" /> -->
+  <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/crunchflix?color=56BEB8">
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/crunchflix?color=56BEB8" /> -->
+  <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/crunchflix?color=56BEB8">
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/crunchflix?color=56BEB8" /> -->
+  <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/crunchflix?color=56BEB8">
 </p>
 
 <h4 align="center"> 
@@ -53,16 +53,16 @@ Base project:
 
 Challenges (after done with the base project):
 
-:heavy_check_mark: Make the buttons come alive (redirecting to youtube or opening the video after clicking on watch now, showing popup with more information);\
-:heavy_check_mark: Change color, icons and give it a new look;
+:x: Make the buttons come alive (redirecting to youtube or opening the video after clicking on watch now, showing popup with more information);\
+:x: Change color, icons and give it a new look;
 
 My personal contributions:
 
 :heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
-:heavy_check_mark: Language Switcher;\
-:heavy_check_mark: Read More (when something has a lot of text);\
-:heavy_check_mark: Video preview on hover (if available);\
+:x: Language Switcher;\
+:x: Read More (when something has a lot of text);\
+:x: Video preview on hover (if available);\
 :heavy_check_mark: Hosted on Netlify (first time!);
 
 ## :rocket: Technologies ##
@@ -81,8 +81,7 @@ The following tools were used in this project:
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-
-Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a>
+Made with :heart: by <a href="https://github.com/viniciussoaresti" target="_blank">Vinícius Soares</a> and inspired by <a href="https://github.com/felipeAguiarCode" target="_blank">Felipe Aguiar's </a> Netflix's Clone, which you can find <a href="https://github.com/felipeAguiarCode/netflix-clone" target="_blank">here</a>.
 
 &#xa0;
 
