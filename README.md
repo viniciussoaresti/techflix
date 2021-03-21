@@ -51,6 +51,11 @@ Base project:
 :heavy_check_mark: Responsive;\
 :heavy_check_mark: HTML, CSS and JS only;
 
+Challenges (after done with the base project):
+
+:heavy_check_mark: Make the buttons come alive (redirecting to youtube or opening the video after clicking on watch now, showing popup with more information);\
+:heavy_check_mark: Change color, icons and give it a new look;
+
 My personal contributions:
 
 :heavy_check_mark: Favicon;\
