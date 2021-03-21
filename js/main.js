@@ -3,5 +3,5 @@ function watchNow(element){
 }
 
 function moreInformation(element){
-
+    alert("Work in progress!");
 }
