@@ -3,5 +3,9 @@ function watchNow(element){
 }
 
 function moreInformation(element){
-    alert("Work in progress!");
+    document.getElementById('more-information-dialog').showModal();
+}
+
+function closeDialog(){
+    document.getElementById('more-information-dialog').close();
 }

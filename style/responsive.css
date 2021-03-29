@@ -16,3 +16,10 @@
         width: 50%;
     }
 }
+
+@media screen and (max-width: 465px){
+    .main-movie{
+        background: url('../img/thumbnails/naruto2.jpg');
+        background-size: 100%;
+    }
+}
