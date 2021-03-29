@@ -104,11 +104,11 @@ header nav a:hover{
 
 dialog{
     height: 35%;
-    width: 30%;
-    display: block;
+    width: 80%;
     background-color: var(--black);
     color: white;
     overflow: scroll;
+    margin: 25% auto;
 }
 
 .top-dialog-bar{
@@ -125,6 +125,7 @@ dialog{
 #dialog-information{
     margin-top: 10px;
     margin-left: 10px;
+    display: block;
 }
 
 #dialog-information p{
