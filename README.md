@@ -61,7 +61,6 @@ My personal contributions:
 :heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
 :x: Language Switcher;\
-:x: Read More (when something has a lot of text);\
 :x: Video preview on hover (if available);\
 :heavy_check_mark: Hosted on Netlify (first time!);
 
