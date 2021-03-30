@@ -38,7 +38,7 @@
 
 ## :dart: About ##
 
-Netflix's interface's clone for anime!
+Netflix's interface's clone for tech videos/courses!
 
 ## :sparkles: Features ##
 Base project:
