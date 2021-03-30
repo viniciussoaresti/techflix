@@ -1,12 +1,15 @@
 :root{
-    --red: #E50914;
-    --black: #141414; 
+    --green: rgb(50, 195, 86);
+    --black: #141414;
+    --grey: #cfcfcf; 
+    --white: #f6f2f2;
 }
 
 *{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    color: var(--white);
 }
 
 /*Base*/
@@ -25,14 +28,14 @@ header .container{
 
 header .logo{
     margin-left: 5px;
-    color: var(--red);
+    color: var(--green);
     font-family: 'Arial Black', Times;
     font-size: 40px;
 }
 
 header nav a{
     text-decoration: none;
-    color: #AAA;
+    color: var(--grey);
     margin-right: 10px;
 }
 
@@ -44,7 +47,7 @@ header nav a:hover{
 
 .main-movie{
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('../img/thumbnails/naruto.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50) 100%), url('../img/thumbnails/angular.png');
     height: 400px;
     background-size: 100% 100%;
     display: flex;
@@ -103,12 +106,12 @@ header nav a:hover{
 }
 
 dialog{
-    height: 35%;
-    width: 80%;
+    height: 40%;
+    width: 70%;
     background-color: var(--black);
     color: white;
     overflow: scroll;
-    margin: 25% auto;
+    margin: 10% auto;
 }
 
 .top-dialog-bar{
@@ -130,4 +133,12 @@ dialog{
 
 #dialog-information p{
     margin-top: 10px;
+}
+
+#more-button{
+    color: var(--green);
+}
+
+#more-button:hover{
+    color: rgb(65, 246, 110);
 }

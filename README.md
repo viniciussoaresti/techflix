@@ -1,34 +1,29 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="CrunchFlix's gif exhibiting functionalities" />
+  <img src="./github/app.gif" alt="Techflix's gif exhibiting functionalities" />
   &#xa0;
 
-  <a href="https://crunchflix.netlify.app">Demo</a> 
+  <a href="https://techflix1.netlify.app">Demo</a> 
 </div>
 
-<h1 align="center">CrunchFlix</h1>
+<h1 align="center">Tech.flix</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/viniciussoaresti/techflix?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/viniciussoaresti/techflix?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/viniciussoaresti/techflix?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/viniciussoaresti/techflix?color=56BEB8">
 
   <img alt="Netlify status" src="https://api.netlify.com/api/v1/badges/8b29fb2b-3acd-4a3a-adad-950378eab980/deploy-status">
 
-  <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="Github issues" src="https://img.shields.io/github/issues/viniciussoaresti/techflix?color=56BEB8">
 
-  <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="Github forks" src="https://img.shields.io/github/forks/viniciussoaresti/techflix?color=56BEB8">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/crunchflix?color=56BEB8">
+  <img alt="Github stars" src="https://img.shields.io/github/stars/viniciussoaresti/techflix?color=56BEB8">
 </p>
-
-<h4 align="center"> 
-	🚧 Under construction...  🚧
-</h4> 
-
 <hr>
 
 <p align="center">
@@ -53,15 +48,13 @@ Base project:
 
 Challenges (after done with the base project):
 
-:x: Make the buttons come alive (redirecting to youtube or opening the video after clicking on watch now, showing popup with more information);\
-:x: Change color, icons and give it a new look;
+:heavy_check_mark: Make the buttons come alive (redirecting to youtube or opening the video after clicking on watch now, showing popup with more information);\
+:heavy_check_mark: Change color, icons and give it a new look;
 
 My personal contributions:
 
 :heavy_check_mark: Favicon;\
 :heavy_check_mark: English translation;\
-:x: Language Switcher;\
-:x: Video preview on hover (if available);\
 :heavy_check_mark: Hosted on Netlify (first time!);
 
 ## :rocket: Technologies ##

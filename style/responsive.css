@@ -1,3 +1,9 @@
+@media screen and (max-width: 450px){
+    dialog{
+        margin: 45% auto;
+    }
+}
+
 @media screen and (max-width: 740px){
     header .container{
         display: flex;
@@ -9,17 +15,14 @@
         width: 140px;
         height: 60px;
     }
+
+    dialog{
+        margin: 25% auto;
+    }
 }
 
 @media screen and (min-width: 1000px){
     .description{
         width: 50%;
-    }
-}
-
-@media screen and (max-width: 465px){
-    .main-movie{
-        background: url('../img/thumbnails/naruto2.jpg');
-        background-size: 100%;
     }
 }
