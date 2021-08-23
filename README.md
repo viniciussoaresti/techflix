@@ -2,7 +2,7 @@
   <img src="./github/app.gif" alt="Techflix's gif exhibiting functionalities" />
   &#xa0;
 
-  <a href="https://techflix1.netlify.app">Demo</a> 
+  <a href="https://techflix1.netlify.app">👉Live Demo👈</a> 
 </div>
 
 <h1 align="center">Tech.flix</h1>
